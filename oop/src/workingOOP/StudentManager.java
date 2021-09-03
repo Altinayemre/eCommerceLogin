@@ -1,4 +1,4 @@
-package odev2;
+package workingOOP;
 
 public class StudentManager extends UserManager{
 	public void courseRegister(Student student, Course course) {

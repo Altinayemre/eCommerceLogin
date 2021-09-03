@@ -1,4 +1,4 @@
-package odev2;
+package workingOOP;
 
 public class UserManager {
 	public void login(User user) {

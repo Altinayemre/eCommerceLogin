@@ -1,4 +1,4 @@
-package odev2;
+package workingOOP;
 
 public class InstructorManager extends UserManager{
 	public void courseAdd(Instructor instructor, Course course) {
