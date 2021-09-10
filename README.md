@@ -19,7 +19,7 @@
 <h3>Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.</h3>
 
 -E-posta ve parola zorunludur<br>
--Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
+-Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
 
 ** <h4>Bu isterleri katmanlı mimaride simüle ediniz.</h4>
 
