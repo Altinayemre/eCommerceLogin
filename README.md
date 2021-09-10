@@ -21,7 +21,7 @@
 -E-posta ve parola zorunludur<br>
 -Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
 
-**<h4>Bu isterleri katmanlı mimaride simüle ediniz.</h4>
+** <h4>Bu isterleri katmanlı mimaride simüle ediniz.</h4>
 
 # Output
 
