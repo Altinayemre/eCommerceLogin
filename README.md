@@ -7,12 +7,12 @@
 -E-posta alanı e-posta formatında olmalıdır. (Regex)<br>
 -E-Posta daha önce kullanılmamış olmalıdır.<br>
 -Ad ve soyad en az iki karakterden oluşmalıdır.<br>
-
 -Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)<br>
-
 -Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)<br>
 -Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
+
 <h3>Kullanıcılar sisteme Google hesapları ile üye olabilmelidir.(Simulasyon)</h3><br>
+
 -İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)<br>
 -Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
 
