@@ -1,27 +1,27 @@
-# e-commerce login system simulation
+# E-commerce login system simulation
 
-<h3>Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.</h3>
+### Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 
--Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.<br>
--Parola en az 6 karakterden oluşmalıdır.<br>
--E-posta alanı e-posta formatında olmalıdır. (Regex)<br>
--E-Posta daha önce kullanılmamış olmalıdır.<br>
--Ad ve soyad en az iki karakterden oluşmalıdır.<br>
--Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)<br>
--Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)<br>
--Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
+- Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.<br>
+- Parola en az 6 karakterden oluşmalıdır.<br>
+- E-posta alanı e-posta formatında olmalıdır. (Regex)<br>
+- E-Posta daha önce kullanılmamış olmalıdır.<br>
+- Ad ve soyad en az iki karakterden oluşmalıdır.<br>
+- Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)<br>
+- Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)<br>
+- Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
 
-<h3>Kullanıcılar sisteme Google hesapları ile üye olabilmelidir.(Simulasyon)</h3>
+### Kullanıcılar sisteme Google hesapları ile üye olabilmelidir.(Simulasyon)
 
--İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)<br>
--Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
+- İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)<br>
+- Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.<br>
 
-<h3>Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.</h3>
+### Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.</h3>
 
--E-posta ve parola zorunludur<br>
--Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.</br>
+- E-posta ve parola zorunludur<br>
+- Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.</br>
 
-<h3>**Bu isterleri katmanlı mimaride simüle ediniz.</h4>
+### *Bu isterleri katmanlı mimaride simüle ediniz.*
 
 # Output
 
